@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @williamkahia
-- 👀 I’m interested in JavaScript,Python,Dart, NodeJs, flutter, React, MySql, Mongo
-- 🌱 I’m currently learning NodeJs, flutter, React,
-- 💞️ I’m looking to collaborate on web & mobile apps.
+- 👋 Hi, I’m @williamkahia,
+- 👀 I’m interested in JavaScript,Python,Dart, NodeJs, flutter, React, MySql, Mongo.
+- 🌱 I’m currently working on web and mobile apps using NodeJs for the API, React with Redux fro the web app and Flutter for mobile app.
+- 💞️ I’m looking to collaborate on web apps, mobile apps and possibly AI projects probably in the near future.
 - 📫 How to reach me? 
      - send me an email though the address below
             
